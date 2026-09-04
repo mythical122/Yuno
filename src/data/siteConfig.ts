@@ -8,7 +8,7 @@
  */
 
 /** 10 April 2024, local time (timezone-safe). */
-export const ANNIVERSARY_DATE = new Date(2024, 3, 10);
+export const ANNIVERSARY_DATE = new Date(2022, 3, 10);
 
 export const ANNIVERSARY_LABEL = ANNIVERSARY_DATE.toLocaleDateString('en-IN', {
   day: 'numeric',
