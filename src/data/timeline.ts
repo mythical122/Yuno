@@ -15,7 +15,7 @@ export interface TimelineEntry {
  */
 export const timeline: TimelineEntry[] = [
   {
-    date: '10 April 2024',
+    date: '10 April 2022',
     title: 'The Beginning ❤️',
     description: '✏️ Add our real memory here — the day our little story started.',
     image: '/Yuno/image/yuno1.jpg',
