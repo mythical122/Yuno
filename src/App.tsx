@@ -11,7 +11,7 @@ export default function App() {
   useEffect(() => {
     // Show the loader just long enough to feel intentional — never annoying.
     const heroImage = new Image();
-    heroImage.src = '/image/yuno1.jpg';
+    heroImage.src = '/Yuno/image/yuno1.jpg';
     const imageReady = new Promise<void>((resolve) => {
       heroImage.onload = () => resolve();
       heroImage.onerror = () => resolve();

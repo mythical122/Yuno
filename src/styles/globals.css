@@ -350,7 +350,7 @@ body::after {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('/image/yuno1.jpg') center / cover no-repeat;
+  background: url('/Yuno/image/yuno1.jpg') center / cover no-repeat;
   filter: blur(12px);
   transform: scale(1.08);
   opacity: 0.32;

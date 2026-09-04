@@ -11,7 +11,7 @@ export const PLAYLIST_URL =
 export const loveSlides: LoveSlide[] = [
   {
     id: 1,
-    image: '/image/yuno1.jpg',
+    image: '/Yuno/image/yuno1.jpg',
     objectPosition: 'center 30%',
     alt: 'Our memory 1 — Future DR',
     author: 'Dear Shreemati',
@@ -23,7 +23,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 2,
-    image: '/image/yuno2.jpg',
+    image: '/Yuno/image/yuno2.jpg',
     objectPosition: 'center 25%',
     alt: 'Our memory 2 — Mine Laxmi',
     author: 'Dear Shreemati',
@@ -35,7 +35,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 3,
-    image: '/image/yuno3.jpg',
+    image: '/Yuno/image/yuno3.jpg',
     objectPosition: 'center 20%',
     alt: 'Our memory 3 — My Lady',
     author: 'Dear Shreemati',
@@ -47,7 +47,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 4,
-    image: '/image/yuno4.jpg',
+    image: '/Yuno/image/yuno4.jpg',
     objectPosition: 'center 22%',
     alt: 'Our memory 4 — Yuno 3000',
     author: 'Dear Shreemati',
@@ -59,7 +59,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 5,
-    image: '/image/yuno5.jpg',
+    image: '/Yuno/image/yuno5.jpg',
     objectPosition: 'center 18%',
     alt: 'Our memory 5 — Bacha',
     author: 'Dear Shreemati',
@@ -71,7 +71,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 6,
-    image: '/image/yuno6.jpg',
+    image: '/Yuno/image/yuno6.jpg',
     objectPosition: 'center 28%',
     alt: 'Our memory 6 — Kareja',
     author: 'Dear Shreemati',
@@ -83,7 +83,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 7,
-    image: '/image/yuno7.jpg',
+    image: '/Yuno/image/yuno7.jpg',
     objectPosition: 'center 40%',
     alt: 'Our memory 7 — My Wife',
     author: 'Dear Shreemati',
@@ -94,7 +94,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 8,
-    image: '/image/yuno8.jpg',
+    image: '/Yuno/image/yuno8.jpg',
     objectPosition: 'center 22%',
     alt: 'Our memory 8 — My best Motivation',
     author: 'Dear Shreemati',
@@ -106,7 +106,7 @@ export const loveSlides: LoveSlide[] = [
   },
   {
     id: 9,
-    image: '/image/yuno9.jpg',
+    image: '/Yuno/image/yuno9.jpg',
     objectPosition: 'center 18%',
     alt: 'Our memory 9 — Always You',
     author: 'Dear Shreemati',
